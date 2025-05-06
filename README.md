@@ -73,7 +73,7 @@ const calculateRiskScore = (customer) => {
 
 ## 🌐 Hosting Links
 
-- **Frontend (Vercel)**:
+- **Frontend (Vercel)**:https://credit-dashboard-nine.vercel.app/
 - **Backend (Render)**:
   ✅ The frontend is built with React + TypeScript using Vite and hosted on Vercel.  
   ✅ The backend is a Node.js + Express server deployed via Render and exposes `/customers`, `/customers/:id/status`, and `/alerts` endpoints.
