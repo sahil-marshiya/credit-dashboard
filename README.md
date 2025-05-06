@@ -69,8 +69,6 @@ const calculateRiskScore = (customer) => {
 };
 ```
 
-![alt text](<Screenshot 2025-04-22 at 2.08.49 AM (2).png>)# kyc-risk-dashboard
-
 ## 🌐 Hosting Links
 
 - **Frontend (Vercel)**:https://credit-dashboard-nine.vercel.app/
